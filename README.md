@@ -9,9 +9,16 @@
 
 ## Sobre Mim :wave:
 
-Meu nome é Bruno, sou formado em Analise e Desenvolvimento de Sistemas pela Universidade Potiguar do Rio Grande do Norte. 
+Sou Software Developer e Platform Lead, com sólida experiência no desenvolvimento de software e liderança técnica em plataformas robustas e escaláveis. Tenho paixão por criar soluções inovadoras, otimizar processos e colaborar com equipes multidisciplinares para alcançar resultados de alto impacto.
 
-Sou especialista em desenvolvimento web com profundo conhecimento nas seguintes tecnologias: HTML5, CSS3, Javascript, Tailwind, Mui, ReactJS, React Native, NodeJS, Nestjs, Apollo Client, Apollo Serve, Graphql, PostgreSQL, MySql, Prisma Orm, TypeORm, PHP, Nextjs, Typescript, Javascript.   
+Minhas principais competências incluem:
+	•	Desenvolvimento de Software: Expertise em linguagens e tecnologias modernas para construção de sistemas eficientes e seguros.
+	•	Arquitetura de Plataformas: Design e implementação de plataformas escaláveis e resilientes, alinhadas às necessidades do negócio.
+	•	Liderança Técnica: Gestão de times de desenvolvimento, promovendo boas práticas, mentoring e alinhamento estratégico com objetivos organizacionais.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e contribuir para projetos que façam a diferença.
+
+💡 “A tecnologia não é apenas uma ferramenta, mas um meio de transformar ideias em realidade.”
 
 #### Front-end:
 
